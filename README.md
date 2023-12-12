@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- About me: A video[https://cometmail-my.sharepoint.com/:v:/g/personal/axy230003_utdallas_edu/EbI73kSOR5dHtcVzW9zUlS8BTlOH_gHrG2OyoPf5boHakQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Ny3eGi]
+
 - 🌱 I’m currently learning **JavaScript, react, C#**
 
 - 💬 Ask me about **python, JavaScript**
