@@ -1,13 +1,14 @@
 ![logo](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg)
 <h1 align="center">Hi 👋, I'm Abhishekkumar Yadav</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xaaby&label=Profile%20views&color=0e75b6&style=flat" alt="xaaby" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- About me: A video[https://cometmail-my.sharepoint.com/:v:/g/personal/axy230003_utdallas_edu/EbI73kSOR5dHtcVzW9zUlS8BTlOH_gHrG2OyoPf5boHakQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Ny3eGi]
+- About me: I am currently seeking opportunities in data analysis and business analytics, where I can leverage my programming and database expertise to drive insights and facilitate data-driven decision-making. I am enthusiastic about contributing to impactful projects and expanding my knowledge in the field of data analytics.
+#A video[https://cometmail-my.sharepoint.com/:v:/g/personal/axy230003_utdallas_edu/EbI73kSOR5dHtcVzW9zUlS8BTlOH_gHrG2OyoPf5boHakQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=Ny3eGi]
 
 - 🌱 I’m currently learning **JavaScript, react, C#**
 
