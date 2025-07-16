@@ -13,7 +13,7 @@
 - 📊 Experienced in building **SQL/Python ETL pipelines, Power BI dashboards, and Azure data workflows**
 - 🧠 Passionate about **transforming data into business insights**
 - 📫 Reach me at: **abhishek.rajaram.yadav@gmail.com**
-- 🧾 View my resume: [Google Drive Resume](https://drive.google.com/file/d/1D_IxCavhhZVzIlFRy5YajsV_1X2aKiqH/view?usp=sharing)
+- 🧾 View my resume: [Drive Resume](https://drive.google.com/file/d/1c00gL7JRsSHrVt3YEL5I8bXKCu4tvEJ4/view?usp=sharing)
 
 ---
 
