@@ -1,71 +1,51 @@
-![Analytics Banner](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg)
+# Hi 👋, I'm Abhishek (Abhi) Yadav
 
-<h1 align="center">Hi 👋, I'm Abhishekkumar (Abhi) Yadav</h1>
-<h3 align="center">Data Analyst | Python, SQL, Power BI, Azure | Business Intelligence & Automation Enthusiast</h3>
-
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=xaaby&label=Profile%20views&color=0e75b6&style=flat" alt="xaaby" />
-</p>
-
-- 🔭 I’m currently working on **data automation and cloud-based analytics**
-- 📊 Experienced in building **SQL/Python ETL pipelines, Power BI dashboards, and Azure data workflows**
-- 🧠 Passionate about **transforming data into business insights**
-- 📫 Reach me at: **abhishek.rajaram.yadav@gmail.com**
-- 🧾 View my resume: [Drive Resume](https://drive.google.com/file/d/1T4ISBGVnfBO3PdLW-MS4cxcw8zHO4JK6/view?usp=drive_link)
+**AI Engineer | GCP · Gemini · Python | Multi-Tool Agents · RAG · Compliance Automation**
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Live Projects
 
-- 🔍 [Customer Clustering for Retail Optimization](https://github.com/Xaaby/Customer-Clustering-Supermarket)  
-  Applied KMeans, DBSCAN & Hierarchical clustering to segment 100k+ customers, improving targeted marketing by 15\%.
+### 🤖 GCP DevOps Compliance Agent
+GCP-native AI agent that monitors data pipelines, detects anomalies, and answers natural language compliance questions via a Gemini 2.5 Flash tool-calling loop.
 
-- 🤖 [Gen-Z SmartCare – AI for Health Insurance](https://github.com/Xaaby/)  
-  Designed a predictive analytics model for student health insurance engagement and plan renewals (+20\% projected).
-
----
-
-### 🏅 Certifications
-
-- [Microsoft Certified: Azure Data Scientist Associate (2025–2026)](https://learn.microsoft.com/en-us/users/abhishekyadav-4060/credentials/1e47152476ab9f3a)
-- [Microsoft Certified: Power BI Data Analyst Associate (2025)](https://learn.microsoft.com/en-us/users/abhishekyadav-4060/credentials/1e47152476ab9f3a)
+**Stack:** Python · FastAPI · Streamlit · Gemini 2.5 Flash · Cloud Run · GitHub Actions  
+**Live Demo:** [Frontend](https://gcp-devops-frontend-786562162192.us-central1.run.app) · [Backend Health](https://gcp-devops-backend-786562162192.us-central1.run.app/health)  
+→ [Repo: gcp-devops-compliance-agent](https://github.com/Xaaby/gcp-devops-compliance-agent)
 
 ---
 
-### 🧰 Languages & Tools
+### 🎧 Contact Center AI Quality Agent
+AI agent that audits call center transcripts for PCI-DSS violations (deterministic regex + Luhn) and scores call quality across 10 dimensions using Gemini structured output — filling gaps Genesys native QA documents it cannot.
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</p>
+**Stack:** Python · Streamlit · Gemini 2.5 Flash · Pydantic · SQLite · Cloud Run  
+→ [Repo: ccai-quality-agent](https://github.com/Xaaby/ccai-quality-agent)
 
 ---
 
-### 🌐 Connect with Me
+### 🏛️ Government Citizen Intelligence Platform
+Dual-mode AI platform: (1) classifies compound 311 citizen complaints into multi-department work orders, (2) answers CJIS Security Policy questions with cited section references via FAISS RAG.
 
-<p align="left">
-  <a href="https://linkedin.com/in/abhishekkumarryadav" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekkumarryadav" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/abhi_yadav78" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhi_yadav78" height="30" width="40" />
-  </a>
-</p>
+**Stack:** Python · Streamlit · Gemini 2.5 Flash · FAISS · pypdf · Cloud Run  
+→ [Repo: ccai-gov-intelligence](https://github.com/Xaaby/ccai-gov-intelligence)
 
 ---
 
-### 📈 GitHub Stats
+## 🧰 Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xaaby&show_icons=true&locale=en&layout=compact" alt="xaaby" /></p>
-<br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xaaby&show_icons=true&locale=en" alt="xaaby" /></p>
-<br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xaaby&" alt="xaaby" /></p>
+**AI/ML:** Gemini 2.5 Flash · google-genai SDK · FAISS · Pydantic · ReAct agent loops · RAG  
+**Cloud:** GCP Cloud Run · Artifact Registry · Secret Manager · Cloud Logging · GitHub Actions CI/CD  
+**Languages:** Python 3.11 · SQL  
+**Data:** SQLite · BigQuery · Pub/Sub (simulated)
+
+---
+
+## 🏅 Certifications
+- Microsoft Certified: Azure Data Scientist Associate (2025–2026)
+- Microsoft Certified: Power BI Data Analyst Associate (2025)
+
+---
+
+## 📫 Connect
+- LinkedIn: [abhishekkumarryadav](https://linkedin.com/in/abhishekkumarryadav)
+- Email: abhishek.rajaram.yadav@gmail.com
